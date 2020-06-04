@@ -1,2 +1,3 @@
 # EmployeeLister_ObjC
-A demo assignment sent from a company i applied.
+
+Objective-C based simple an employee list loader. Contains basic functionalities.
